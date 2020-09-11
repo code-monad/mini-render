@@ -1,0 +1,5 @@
+{
+    "comment": "A example post request of json render",
+    "site_id":  "%SITE_ID%",
+    "dt": %DATE%,
+}               
